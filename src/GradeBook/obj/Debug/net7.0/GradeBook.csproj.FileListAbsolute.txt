@@ -1,0 +1,15 @@
+/Users/fatima/gradebook/src/GradeBook/bin/Debug/net7.0/GradeBook
+/Users/fatima/gradebook/src/GradeBook/bin/Debug/net7.0/GradeBook.deps.json
+/Users/fatima/gradebook/src/GradeBook/bin/Debug/net7.0/GradeBook.runtimeconfig.json
+/Users/fatima/gradebook/src/GradeBook/bin/Debug/net7.0/GradeBook.dll
+/Users/fatima/gradebook/src/GradeBook/bin/Debug/net7.0/GradeBook.pdb
+/Users/fatima/gradebook/src/GradeBook/obj/Debug/net7.0/GradeBook.csproj.AssemblyReference.cache
+/Users/fatima/gradebook/src/GradeBook/obj/Debug/net7.0/GradeBook.GeneratedMSBuildEditorConfig.editorconfig
+/Users/fatima/gradebook/src/GradeBook/obj/Debug/net7.0/GradeBook.AssemblyInfoInputs.cache
+/Users/fatima/gradebook/src/GradeBook/obj/Debug/net7.0/GradeBook.AssemblyInfo.cs
+/Users/fatima/gradebook/src/GradeBook/obj/Debug/net7.0/GradeBook.csproj.CoreCompileInputs.cache
+/Users/fatima/gradebook/src/GradeBook/obj/Debug/net7.0/GradeBook.dll
+/Users/fatima/gradebook/src/GradeBook/obj/Debug/net7.0/refint/GradeBook.dll
+/Users/fatima/gradebook/src/GradeBook/obj/Debug/net7.0/GradeBook.pdb
+/Users/fatima/gradebook/src/GradeBook/obj/Debug/net7.0/GradeBook.genruntimeconfig.cache
+/Users/fatima/gradebook/src/GradeBook/obj/Debug/net7.0/ref/GradeBook.dll

@@ -1,6 +1,6 @@
 namespace GradeBook
 {
-    class Book 
+    public class Book 
     {
         public Book(string name)
         {

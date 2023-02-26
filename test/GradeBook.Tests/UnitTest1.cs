@@ -12,13 +12,15 @@ public class BookTests
         var book = new Book("Fatima");
         book.AddGrade(98.1);
         book.AddGrade(97.1);
-        book.AddGrade(985.1);
+        book.AddGrade(98.2);
 
         //act
         var result = book.CalcResult();
 
         //assert
-        Debug.Assert.Equal(96.7, result.average);
-        
+       
+        Assert.Equal(55.5,result.Average, 1);
+        Assert.Equal(98.2,result.High, 1);
+        Assert.Equal(97.1,result.Low, 1);
     }
 }

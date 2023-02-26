@@ -97,3 +97,8 @@
 /Users/fatima/gradebook/test/GradeBook.Tests/obj/Debug/net7.0/GradeBook.Tests.genruntimeconfig.cache
 /Users/fatima/gradebook/test/GradeBook.Tests/obj/Debug/net7.0/ref/GradeBook.Tests.dll
 /Users/fatima/gradebook/test/GradeBook.Tests/bin/Debug/net7.0/CoverletSourceRootsMapping
+/Users/fatima/gradebook/test/GradeBook.Tests/bin/Debug/net7.0/GradeBook.deps.json
+/Users/fatima/gradebook/test/GradeBook.Tests/bin/Debug/net7.0/GradeBook.runtimeconfig.json
+/Users/fatima/gradebook/test/GradeBook.Tests/bin/Debug/net7.0/GradeBook
+/Users/fatima/gradebook/test/GradeBook.Tests/bin/Debug/net7.0/GradeBook.dll
+/Users/fatima/gradebook/test/GradeBook.Tests/bin/Debug/net7.0/GradeBook.pdb

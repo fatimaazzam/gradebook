@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "2w5S1mVcy6NqPAJA1ivfH0a6cAkQkt/LHKiIVhw1Ijok3IavkFePTp+5Wr0TK8dI7+28mWHbio3e/l02pl7XQw==",
+  "dgSpecHash": "0LOlinG+dlHZ77MF/IrEkZasxEGis5B9C4yOzhj+jTE1aWTm4sR1K84SjLXqBpE2UiVlpcV2IffBGD/NOy25Nw==",
   "success": true,
-  "projectFilePath": "/Users/fatima/gradebook/test/GradeBook.Tests/GradeBook.Tests.csproj",
+  "projectFilePath": "/Users/fatima/gradebook/test/GradeBook.tests/GradeBook.Tests.csproj",
   "expectedPackageFiles": [
     "/Users/fatima/.nuget/packages/coverlet.collector/3.1.2/coverlet.collector.3.1.2.nupkg.sha512",
     "/Users/fatima/.nuget/packages/microsoft.codecoverage/17.3.2/microsoft.codecoverage.17.3.2.nupkg.sha512",

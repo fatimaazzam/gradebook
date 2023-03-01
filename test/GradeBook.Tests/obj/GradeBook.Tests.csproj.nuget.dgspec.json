@@ -1,7 +1,7 @@
 {
   "format": 1,
   "restore": {
-    "/Users/fatima/gradebook/test/GradeBook.Tests/GradeBook.Tests.csproj": {}
+    "/Users/fatima/gradebook/test/GradeBook.tests/GradeBook.Tests.csproj": {}
   },
   "projects": {
     "/Users/fatima/gradebook/src/GradeBook/GradeBook.csproj": {
@@ -57,14 +57,14 @@
         }
       }
     },
-    "/Users/fatima/gradebook/test/GradeBook.Tests/GradeBook.Tests.csproj": {
+    "/Users/fatima/gradebook/test/GradeBook.tests/GradeBook.Tests.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/Users/fatima/gradebook/test/GradeBook.Tests/GradeBook.Tests.csproj",
+        "projectUniqueName": "/Users/fatima/gradebook/test/GradeBook.tests/GradeBook.Tests.csproj",
         "projectName": "GradeBook.Tests",
-        "projectPath": "/Users/fatima/gradebook/test/GradeBook.Tests/GradeBook.Tests.csproj",
+        "projectPath": "/Users/fatima/gradebook/test/GradeBook.tests/GradeBook.Tests.csproj",
         "packagesPath": "/Users/fatima/.nuget/packages/",
-        "outputPath": "/Users/fatima/gradebook/test/GradeBook.Tests/obj/",
+        "outputPath": "/Users/fatima/gradebook/test/GradeBook.tests/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "/Users/fatima/.nuget/NuGet/NuGet.Config"

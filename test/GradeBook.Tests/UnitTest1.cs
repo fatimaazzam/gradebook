@@ -19,8 +19,8 @@ public class BookTests
 
         //assert
        
-        Assert.Equal(55.5,result.Average, 1);
-        Assert.Equal(98.2,result.High, 1);
-        Assert.Equal(97.1,result.Low, 1);
+        Assert.Equal(97.79,result.Average,1);
+        Assert.Equal(98.2,result.High);
+        Assert.Equal(97.1,result.Low);
     }
 }

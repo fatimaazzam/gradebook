@@ -3,8 +3,24 @@ using System.Diagnostics;
 using Xunit;
 namespace GradeBook.Tests;
 
+
 public class TypeTest
 {
+    [Fact]
+    public void StringBehaveLikeValueType()
+    {
+        string name = "Fatima";
+        var upper = MakeUppercase(name);
+        Assert.Equal("FATIMA", upper);
+    }
+
+    private string MakeUppercase(string parameter)
+    {
+        return parameter.ToUpper();
+
+    }
+
+    
 
     [Fact]
     public void Test2()
@@ -16,6 +32,7 @@ public class TypeTest
 
     private void SetInt(ref int x)
     {
+        
         x = 42;
     }
     private int GetInt()

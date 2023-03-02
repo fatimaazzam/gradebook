@@ -13,6 +13,7 @@ public class BookTests
         book.AddGrade(98.1);
         book.AddGrade(97.1);
         book.AddGrade(98.2);
+        book.AddGrade(998.2);
 
         //act
         var result = book.CalcResult();
@@ -22,5 +23,6 @@ public class BookTests
         Assert.Equal(97.79,result.Average,1);
         Assert.Equal(98.2,result.High);
         Assert.Equal(97.1,result.Low);
+        
     }
 }

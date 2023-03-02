@@ -5,6 +5,33 @@ namespace GradeBook.Tests;
 
 public class TypeTest
 {
+
+    [Fact]
+    public void Test2()
+    {
+        var x = GetInt();
+        SetInt(ref x);
+        Assert.Equal(42, x);
+    }
+
+    private void SetInt(ref int x)
+    {
+        x = 42;
+    }
+    private int GetInt()
+    {
+       return 3;
+    }
+    public void TestName()
+    {
+        // Given
+    
+        // When
+    
+        // Then
+    }
+
+
     [Fact]
     public void CSharpCanPassByRef()
     {
